@@ -88,10 +88,10 @@ export default function About() {
         {/* Right image stack */}
         <div ref={rightRef} style={{ ...revealStyle(rightVis, 0.2), position: "relative", height: "480px" }}>
           <div style={{ position: "absolute", right: 0, top: 0, width: "320px", height: "380px", borderRadius: "24px", overflow: "hidden" }}>
-            <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=700&q=80" alt="Team" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+            <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=700&q=80&auto=format&fit=crop" alt="Team" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
           </div>
           <div style={{ position: "absolute", left: 0, bottom: 0, width: "200px", height: "220px", borderRadius: "12px", overflow: "hidden", border: "4px solid #111111" }}>
-            <img src="https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=400&q=80" alt="Detail" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+            <img src="https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=400&q=80&auto=format&fit=crop" alt="Detail" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
           </div>
           <div
             style={{
