@@ -193,7 +193,7 @@ The site is fully responsive across all screen sizes:
 
 ## 👤 Submitted By
 
-**Name:** Your Name Here
+**Name:** Farial Robama
 **Position Applied:** Frontend Developer
 **Company:** SM Technology
 **Submission Date:** April 6, 2026
